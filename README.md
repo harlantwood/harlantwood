@@ -4,20 +4,18 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harlanwood/)
 [![GitHub Followers](https://img.shields.io/github/followers/harlantwood?label=Follow&style=social)](https://github.com/harlantwood)
-[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=appveyor)](https://ha.rlan.ai/)
+[![Ha.rlan.ai](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=appveyor)](https://ha.rlan.ai/)
 
 ### 🌠 About Me
 
-I’m Harlan—a lifelong coder, decentralized systems architect, and AI engineer. Currently, I’m the CTO at **CoreNexus**, a visionary 3D Social Operating System with regenerative impact capabilities, and the architect of **TrustGraph**, an open-source reputation interchange format designed to foster decentralized trust networks. My work balances open systems, decentralized tech, and AI-driven insights, and I’m passionate about reimagining technology to empower autonomy, privacy, and collaboration.
-
-> "I’m here to catalyze luminous tools that free and uplift humanity, avoiding scarcity, enabling creativity, and championing new-age abundance."
+I’m Harlan — a lifelong coder, decentralized systems architect, and AI engineer. Currently, I’m the CTO at **CoreNexus**, a visionary 3D Social Operating System with regenerative impact capabilities, and the architect of **TrustGraph**, an open-source reputation interchange format designed to foster decentralized trust networks. My work balances open systems, decentralized tech, and AI Engineering, and I’m passionate about reimagining technology to empower autonomy, privacy, and collaboration.
 
 ---
 
-### 🛠 Nerd Cred & Skills
+### 🛠 Technical Skills & Expertise
 
-- **Languages**: Ruby, JavaScript, TypeScript, Python, C#
-- **Frameworks & Tools**: Ruby on Rails, Node.js, OpenAI API, Stable Diffusion, OpenLLaMA, Docker, Kubernetes
+- **Languages**: Ruby, TypeScript, Rust, Python, and a long tail of dozens of others...
+- **Tools and APIs**: OpenAI, Replicate, Stable Diffusion, ollama, Docker
 - **Decentralized Technologies**: TrustGraph, IPFS, DID, Holochain
 - **Methodologies**: Test-Driven Development, Agile/XP, Continuous Integration, CI/CD, Pair Programming, Extreme Programming
 - **Humanizing Technology**: Self-Sovereign Identity, Semantic Web, Decentralized Reputation Systems
@@ -27,10 +25,10 @@ I’m Harlan—a lifelong coder, decentralized systems architect, and AI enginee
 ### 🌌 Open-Source Contributions & Passion Projects
 
 #### **[TrustGraph](https://github.com/trustgraph/trustgraph)**
-TrustGraph is my open-source passion project, built as an interoperable format for decentralized reputation information. Designed to enable self-sovereign identity and selective sharing, TrustGraph sets the foundation for systems like peer-to-peer credit ratings, academic review, and more—focusing on lifting up underbanked communities and establishing trust in global networks.
+TrustGraph is my open-source passion project, built as an interoperable format for decentralized reputation information. Designed to enable self-sovereign identity and selective sharing, TrustGraph sets the foundation for systems like peer-to-peer credit ratings, academic review, and more — focusing on lifting up underbanked communities and establishing trust in global networks.
 
 #### **[Smallest Federated Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204)**
-In one of my favorite open-source contributions, I worked with Ward Cunningham’s Smallest Federated Wiki, submitting a significant [pull request](https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204) that improved core functionality and stability for the community-driven platform.
+In one of my favorite open-source contributions, I worked with Ward Cunningham’s Smallest Federated Wiki, submitting a significant [pull request](https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204) that improved core functionality for the community-driven platform.
 
 ---
 
@@ -51,6 +49,8 @@ A decentralized collaboration platform, **NodeSphere** prototypes secure workpla
 ---
 
 ### 📈 GitHub Stats
+
+[![Harlan's GitHub Stats over time](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harlantwood&theme=default)](https://github.com/harlantwood)
 
 [![Harlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harlantwood&show_icons=true&theme=default)](https://github.com/harlantwood)
 
