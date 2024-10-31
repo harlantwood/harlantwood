@@ -25,23 +25,25 @@ I'm a lifelong coder, decentralized systems architect, and AI engineer. Currentl
 TrustGraph is an open source passion project, built as an interoperable format for decentralized reputation information. Designed to enable self-sovereign identity and selective sharing, TrustGraph sets the foundation for systems like peer-to-peer credit ratings, academic review and establishing trust in global networks.  The most active repo is currently the [TrustGraph Holochain library](https://github.com/trustgraph/trustgraph-holochain).
 
 #### **[Smallest Federated Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204)**
-Many years ago, I worked with Ward Cunningham on Smallest Federated Wiki, and added a couchdb backend in <https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204>.
+Many years ago, I worked with Ward Cunningham on Smallest Federated Wiki, and added a couchdb backend in <https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204>. Happy nerd moment:
+
+![](images/Ward-happy.png)
 
 ---
 
 ### 📚 Featured Projects
 
 #### **CoreNexus** - [CoreNexus.is](https://CoreNexus.is)
-CoreNexus is a **3D Social Operating System and Regenerative Impact Dashboard**, uniting decentralized social and commerce functions with gamified, purpose-oriented philanthropy. It's a memory palace for self-sovereign data, and a regenerative economy engine, bringing Web3 interoperability across reputation, SSO, and semantic data layers.
-
-#### **Mirror Astrology** - [aistrologer.app](https://aistrologer.app)
-An AI-powered astrology platform blending AI, Rails, and OpenAI APIs to deliver poetic, deeply personalized astrological insights. I implemented a flexible model-switching interface, enabling seamless experimentation with cutting-edge LLMs, including Stable Diffusion and OpenLLaMA.
+CoreNexus is a **Social Operating System and Regenerative Impact Dashboard**, uniting decentralized social and commerce functions with gamified, purpose-oriented philanthropy. It's a memory palace for self-sovereign data, and a regenerative economy engine, bringing Web3 interoperability across reputation, SSO, and semantic data layers.
 
 #### **HoloFractal** - [HoloFractal.is](https://HoloFractal.is)
-Proof of concept for Holochain NFTs, exploring decentralized and self-sovereign data ownership. This project integrates concepts from distributed identity and Web3, with a focus on reputation systems and semantic interoperability.
+HoloFractal is a pioneering platform for minting NFTs with extensible royalty tables that reference collaborators, impact funds, and other digital products, fostering collaboration and content remixing. It introduces a new licensing solution where remixed products inherit original royalty structures, enabling seamless compensation for creators across interconnected works.
 
-#### **NodeSphere** - [NodeSphere](https://github.com/harlantwood/NodeSphere)
-A decentralized collaboration platform, **NodeSphere** prototypes secure workplace attestations with Ethereum and IPFS. This project demonstrates my long-term vision of transparent, blockchain-powered systems in reputation and governance.
+#### **Work.nation** - [Work.nation](https://github.com/worknation/work.nation?tab=readme-ov-file#worknation)
+Work.nation is an open-source proof of concept for building global, project-based professional portfolios powered by blockchain technology. It enables individuals to capture, validate, and share their professional contributions across organizations, fully owning and controlling their personal data. Utilizing uPort, IPFS, and Ethereum, Work.nation allows for the creation of verifiable claims and confirmations of project contributions through a trusted peer network.
+
+#### **Mirror Astrology** - [Mirror-Astrology.com](https://Mirror-Astrology.com)
+An AI-powered astrology platform blending a range of cutting edge AI models, deep prompt engineering, and modern Rails backend/frontend tech to deliver personalized poetic and transformational astrological insights.
 
 ---
 
