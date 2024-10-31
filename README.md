@@ -19,15 +19,20 @@ I'm a lifelong coder, decentralized systems architect, and AI engineer. Currentl
 
 ---
 
-### 🌌 Open Source Contributions & Passion Projects
-
-#### **[TrustGraph](https://github.com/trustgraph/trustgraph)**
-TrustGraph is an open source passion project, built as an interoperable format for decentralized reputation information. Designed to enable self-sovereign identity and selective sharing, TrustGraph sets the foundation for systems like peer-to-peer credit ratings, academic review and establishing trust in global networks.  The most active repo is currently the [TrustGraph Holochain library](https://github.com/trustgraph/trustgraph-holochain).
+### 🌌 Open Source Highlights
 
 #### **[Smallest Federated Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204)**
-Many years ago, I worked with Ward Cunningham on Smallest Federated Wiki, and added a couchdb backend in <https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204>. Happy nerd moment:
 
+Many years ago, I worked with Ward Cunningham on Smallest Federated Wiki, and added a couchdb backend in <https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204>, leading to a happy nerd moment:
 ![](images/Ward-happy.png)
+
+#### **[TrustGraph](https://github.com/trustgraph/trustgraph)**
+
+TrustGraph is an open source passion project, built as an interoperable format for decentralized reputation information. Designed to enable self-sovereign identity and selective sharing, TrustGraph sets the foundation for systems like peer-to-peer credit ratings, academic review and establishing trust in global networks.  The most active repo is currently the [TrustGraph Holochain library](https://github.com/trustgraph/trustgraph-holochain).
+
+#### **[Work.nation](https://github.com/worknation/work.nation?tab=readme-ov-file#worknation)**
+
+Work.nation is an open source proof of concept for decentralized skill attestations, allowing users to build portable professional portfolios validated through blockchain. The repositories include [client.work.nation](https://github.com/worknation/client.work.nation), a React client prototype; [server.work.nation](https://github.com/worknation/server.work.nation), a Rails API server; and [work.nation](https://github.com/worknation/work.nation), the docs and Ethereum smart contract for integrating uPort, Ethereum, and IPFS for decentralized identity and skill verification. Together, these components enable individuals to capture and share professional contributions with verified trust.
 
 ---
 
