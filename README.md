@@ -47,14 +47,6 @@ An AI-powered astrology platform blending a range of cutting edge AI models, dee
 
 ---
 
-### 📈 GitHub Stats
-
-[![Commits over time](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood)
-
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood) <img src="https://img.spacergif.org/spacer.gif" width="5" height="1"> [![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood)
-
----
-
 ### 🔭 My Mission
 
 I'm here to architect **Enlightened Structures**: distributed systems that inflect civilization toward cooperative abundance. I believe technology should empower every individual with control over their data, reputation, and creativity. I am committed to helping prevent a dystopian future of AI-driven inequality, advocating for inclusivity across human, AI, and autonomous entities.
@@ -66,3 +58,11 @@ I'm here to architect **Enlightened Structures**: distributed systems that infle
 - **Website**: [ha.rlan.ai](https://ha.rlan.ai/)
 
 *I'm always excited to talk about decentralized systems, open source projects, or AI for positive change. Let's build the future together!*
+
+---
+
+### 📈 GitHub Stats
+
+[![Commits over time](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood)
+
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood) <img src="https://img.spacergif.org/spacer.gif" width="5" height="1"> [![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood)
