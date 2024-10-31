@@ -52,9 +52,7 @@ A decentralized collaboration platform, **NodeSphere** prototypes secure workpla
 
 [![Commits over time](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood)
 
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood)
-
-[![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood)
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood) [![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harlantwood&theme=nord_dark)](https://github.com/harlantwood)
 
 ---
 
