@@ -1,11 +1,11 @@
 # Hi, I'm Harlan 👋
-## AI Engineer, Decentralized Architect & CTO
+## AI Engineer, Decentralized Architect & Engineering Leader
 
 [![Ha.rlan.ai](https://img.shields.io/badge/Ha.rlan.ai-1abc9c?style=flat&logo=circuitverse&logoColor=white)](https://ha.rlan.ai/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harlanwood/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=x&logoColor=white)](https://twitter.com/harlantwood)
 
-I'm a lifelong coder, decentralized systems architect, and AI engineer. Currently, I'm the CTO at **CoreNexus**, a visionary 3D Social Operating System with regenerative impact capabilities, and the architect of **TrustGraph**, an open source reputation interchange format designed to foster decentralized trust networks. My work balances open systems, decentralized tech, and AI Engineering, and I'm passionate about reimagining technology to empower autonomy, privacy, and collaboration.
+I'm a lifelong coder, decentralized systems architect, and AI engineer. I'm the architect and tech lead of **CoreNexus**, a social platform passion project designed to help users collaborate, visualize and solve large-scale impact problems together, and the architect of **TrustGraph**, an open source reputation interchange format designed to foster decentralized trust networks. My work balances open systems, decentralized tech, and AI Engineering, and I'm passionate about reimagining technology to empower autonomy, privacy, and collaboration.
 
 ---
 
